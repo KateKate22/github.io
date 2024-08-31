@@ -1,8 +1,7 @@
+baseURL = 'https://example.com"'
 languageCode = 'ru-ru'
-title = 'Тggg'
-copyright = 'rtrtrt'
+title = 'окументация'
+copyright = 'gfg'
 staticDir = ['static']
 menu = ['main']
 relativeURLs = true
-[outputs]
-  home = ["HTML", "JSON"]
