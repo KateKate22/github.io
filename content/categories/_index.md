@@ -6,7 +6,7 @@ menu:
     main:
         name: 'Бизнес-процессы'
         weight: 800
-        title: 'bizproc'
+        title: 'categories'
 ---
 
 ## Бизнес-процессы
