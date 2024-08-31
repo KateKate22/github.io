@@ -7,7 +7,6 @@ menu:
         name: 'Бизнес-процессы'
         weight: 800
         title: 'bizproc'
-        parent: 'паап'
 ---
 
 ## Бизнес-процессы
