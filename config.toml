@@ -1,7 +1,0 @@
-baseURL = 'https://multibank.nsd.ru/'
-languageCode = 'ru-ru'
-title = 'Транзит 2.0, документация'
-copyright = 'НКО АО НРД'
-staticDir = ['static']
-menu = ['main']
-relativeURLs = true
