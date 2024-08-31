@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/KateKate22/github.io'
 languageCode = 'ru'
-title = 'Okulus Dev'
+title = 'Робот и Точка'
 languageName = 'ru'
 defaultContentLanguage = "ru"
 paginate = 100 #frontpage pagination
